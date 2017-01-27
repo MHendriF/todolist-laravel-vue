@@ -1,3 +1,11 @@
+# Final project APSI
+
+#### Have fun to learn this project.
+
+---
+Email me at [hendrifebriansyah28](Mailto:hendrifebriansyah28@gmail.com)
+---
+
 # Laravel PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
